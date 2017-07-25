@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>BashReader</Entry>
+    <Name>
+        <English>Bashorg</English>
+        <rus-RU>Башорг</rus-RU>
+        <ukr-UA>Башорг</ukr-UA>
+    </Name>
+    <Vendor>Eugene Dobrovidov</Vendor>
+    <Description>Simple application for reading bash.org.ru feeds.</Description>
+    <Icons>
+        <MainMenu>BashReader.png<Type1>BashReader.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
